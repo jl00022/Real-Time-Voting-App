@@ -1,4 +1,4 @@
-# Voting App
+# SnapVote
 
 A real-time voting application built with React, FastAPI, and Redis.
 
