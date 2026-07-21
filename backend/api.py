@@ -20,7 +20,7 @@ r = None
 # configs for JWT token
 JWT_SECRET = os.getenv("JWT_SECRET")
 JWT_ALGORITHM = "HS256"
-JWT_EXP_MINUTES = 60 * 12  # token valid for 12 hours
+JWT_EXP_MINUTES = 5  # token valid for 5 minutes
 
 
 # request/response models
